@@ -1,3 +1,3 @@
 # hello-world
-This is a repository
+This is a repository.
 I am editing the readme...
